@@ -1,0 +1,20 @@
+{
+  "name": "node-aws-ec2-codedeploy",
+  "version": "1.0.0",
+  "description": "Deploying Node js app to AWS EC2 instance using AWS CodeDeploy and CodePipeline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gruchic/Node-AWS-EC2-CODEDEPLOY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gruchic/Node-AWS-EC2-CODEDEPLOY/issues"
+  },
+  "homepage": "https://github.com/gruchic/Node-AWS-EC2-CODEDEPLOY#readme"
+}
